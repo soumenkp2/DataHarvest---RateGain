@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370259972012",
+    "project_id": "dataharvest-rategain",
+    "storage_bucket": "dataharvest-rategain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370259972012:android:5c8e17b07718fbcfb47409",
+        "android_client_info": {
+          "package_name": "com.example.dataharvest_rategain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtskR_EdxP72A7APH5wHIpABFP6LRiVWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
